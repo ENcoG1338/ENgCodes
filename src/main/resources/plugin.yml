@@ -1,0 +1,8 @@
+name: ENgCodes
+version: '${project.version}'
+main: spigot.encog.codes.engcodes.ENgCodes
+api-version: '1.16'
+authors: [ encog ]
+commands:
+  code:
+    description: Активировать коды
